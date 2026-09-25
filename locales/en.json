@@ -1,0 +1,14 @@
+{
+    "notify_title": "Duffle Bag",
+    "cannot_open": "You cannot open that bag right now.",
+    "invalid_bag": "That bag is not valid.",
+    "bag_in_bag": "You cannot put a bag inside another bag.",
+    "bag_locked": "Close the bag before moving it.",
+    "max_bags": "You cannot carry another bag.",
+    "blacklisted": "That item cannot go in the bag.",
+    "cooldown": "Wait a moment before opening another bag.",
+    "not_allowed": "That item is not allowed in this bag.",
+    "missing_item": "ox_inventory item \"%s\" is not registered. Copy it from install/items.lua.",
+    "gave_bag": "Gave a %s to %s.",
+    "give_failed": "Could not give that bag."
+}
